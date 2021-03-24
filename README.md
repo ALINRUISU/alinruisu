@@ -1,7 +1,7 @@
 ### Hi 👋, My name is Rui S.
-Welcome to my own personal github space.  I will be using this as a scratch space to continuously refine the art of devops, SRE, cloud engineering.
+Welcome to my own personal github space.  I will be using this as a scratch space to continuously refine the art of devops, SRE, cloud engineering.  
 
-
+Thank You and cheers :beers:
 <!--
 **ALINRUISU/alinruisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
